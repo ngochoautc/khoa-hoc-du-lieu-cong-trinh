@@ -24,3 +24,9 @@ Mã lệnh đã được chạy với Python 3.12, NumPy 2.5, pandas 3.0, Matplo
 ## Dữ liệu đo thật để thực hành
 
 Danh sách bộ dữ liệu công khai dùng cho bài tập lớn (Bảng 0.3 của giáo trình) ở [du_lieu/README.md](du_lieu/README.md).
+
+## Giấy phép
+
+Mã lệnh trong các Notebook phát hành theo giấy phép MIT (tệp [LICENSE](LICENSE)). Phần văn bản và hình vẽ trong các Notebook phát hành theo giấy phép [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): được sao chép, chỉnh sửa và dùng lại với điều kiện ghi nguồn.
+
+Khi dùng lại, ghi nguồn: Trần Ngọc Hòa (chủ biên), Bùi Tiến Thành, Đỗ Anh Tú. *Khoa học dữ liệu công trình*. Trường Đại học Giao thông vận tải, 2026. https://github.com/ngochoautc/khoa-hoc-du-lieu-cong-trinh
